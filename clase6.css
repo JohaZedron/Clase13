@@ -1,0 +1,46 @@
+body{
+    background-color:black;
+    color:gray;
+    font-size: 20px;
+} 
+/* para que los imput queden mas redondos*/
+input{
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+    color:white;
+}
+/**/
+a{
+    color:rgb(14, 212, 24);
+    background-color:gray;
+    text-decoration: none;
+    /*none es para sacar la decoracion, subrayado en este caso*/
+}
+header{
+    background-color: green;
+    font-size: 20px;
+}
+footer{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+.formulario{
+            
+    border-radius: 5px;
+    background-color: #5dd377;
+    padding: 25px;
+    margin: 10px 450px;
+    border: 10px;
+    border-style: solid;
+    border-color: rgb(235,7,7);
+} 
+nav{
+    text-align: right ;
+}
+input{
+    border-radius: 20px;
+}
